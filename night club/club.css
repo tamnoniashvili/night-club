@@ -1,0 +1,84 @@
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color:  #171717;
+    margin: 0;
+    padding: 0;
+}
+.container-1 {
+    height: 800px;
+    width: 100%;
+    background-color:
+    justify-content: center;
+}
+.surati {
+   padding-top: 75px;
+    margin-left: 217px;
+    height: 514px;
+    width: 746px;
+    z-index: 1;
+}
+.bluecard {
+    height: 621px;
+    width: 531px;
+    margin-left: 720px;
+    background-color: #071922;
+    border-radius: 100px 100px 100px 100px;
+    z-index: 5;
+    position: absolute;
+    margin-top: -360px;
+    box-shadow: 8px 10px 10px #000000;
+}
+h1 {
+    font-size: 54px;
+    font-weight: 400px;
+    text-align: center;
+    color: white;
+}
+.card {
+    width: 531px;
+    height: 621px;
+    
+}
+.myinput {
+    width: 350px;
+    padding: 10px;
+    background-color: hsla(0, 0%, 85%, 0.57);
+
+    color: hsla(0, 0%, 85%, 0.56);
+    outline: none;
+    margin-left: 100px;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.52);
+    border: none;
+}
+
+.signup {
+    width: 175px;
+    padding: 10px;
+    background-color: #DBD2CD;
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 26px;
+    font-weight: 400px;
+    color: #0D3245;
+    text-align: center;
+   
+}
+h4 {
+    font-family: Mina;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-left: 50px;
+    
+}
+.meil{
+    color: #FFFFFF;
+    margin-left: 120px;
+}
